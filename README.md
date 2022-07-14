@@ -29,7 +29,7 @@ O desafio foi construir este projeto com CSS Grid Layout e fazê-lo parecer o ma
 ### Links
 
 - URL da solução: [Index](https://github.com/beatrizslan/Projeto-CSS-Grid-Alura/blob/main/docs/index.html)
-- URL do site: [Site](https://beatrizslan.github.io/Projeto-CSS-Grid-Alura/)
+- URL do site: [Site](https://projeto-css-grid-alura.vercel.app/)
 
 ## Meu processo
 
@@ -71,7 +71,7 @@ O desafio foi construir este projeto com CSS Grid Layout e fazê-lo parecer o ma
 
 ### Autor
 
-- Website - [Beatriz Slan | Alura](https://beatrizslan.github.io/Projeto-CSS-Grid-Alura/)
+- Website - [Beatriz Slan | Alura](https://projeto-css-grid-alura.vercel.app/)
 - Linkedin - [in/beatriz-slan](https://www.linkedin.com/in/beatriz-slan-2324a4173/)
 
 
