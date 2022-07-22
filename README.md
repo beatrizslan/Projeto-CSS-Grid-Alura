@@ -43,6 +43,7 @@ O desafio foi construir este projeto com CSS Grid Layout e fazê-lo parecer o ma
 
 - HTML5 com tags semânticas;
 - Propriedades personalizadas de CSS;
+- Acessibilidade;
 - CSS grid layout;
 - Flexbox;
 - Media queries.
@@ -51,6 +52,7 @@ O desafio foi construir este projeto com CSS Grid Layout e fazê-lo parecer o ma
 
 - Trabalhar com o CSS Grid Layout;
 - Trabalhar com Grid e Flexbox juntos;
+- Acessibilidade web;
 - Desenvolver uma página responsiva, com media queries.
 
 ```CSS
